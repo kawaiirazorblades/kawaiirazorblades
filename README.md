@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a> ✦
   <a href="https://s0apsy.atabook.org">Atabook</a> ✦
-  <a href="https://pronouns.cc/@s0apsy">Pronouns</a>
+  <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
 </p>
 
 <p align="center">
