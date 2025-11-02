@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://sosoapsy.straw.page">Strawpage</a> ✦
-  <a href="https://s0apsy.atabook.org">Atabook</a> ✦
+  <a href="https://sosoapsy.straw.page">Strawpage</a>
+  <img src="https://i.pinimg.com/originals/6d/8e/85/6d8e855ccd2dd53b416dd3e1f3040d6f.gif" alt="Decorative Icon" width="30" height="50">
+  <a href="https://s0apsy.atabook.org">Atabook</a>
+   <img src="https://i.pinimg.com/originals/6d/8e/85/6d8e855ccd2dd53b416dd3e1f3040d6f.gif" alt="Decorative Icon" width="30" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
 </p>
 
