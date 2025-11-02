@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com">
-    <img src="https://cdn.wikimg.net/en/splatoonwiki/images/7/7e/S2_Tower_Records_Inkling_and_Octoling.png" alt="SP" width="500">
+    <img src="https://pbs.twimg.com/media/FhYtgRIXgAEhkTn.png" alt="SP" width="500">
   </a>
 </p>
 
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=cool+people&color=ebb434" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=cool+people&color=c7838c" alt="Profile views">
 </p>
