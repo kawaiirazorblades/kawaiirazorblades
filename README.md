@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://example.com">
-    <img src="https://pbs.twimg.com/media/FhYtgRIXgAEhkTn.png" alt="SP" width="500">
+    <img src="https://files.catbox.moe/b5c3jy.png" alt="SP" width="500">
   </a>
 </p>
 
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a>
-  <img src="https://i.pinimg.com/originals/6d/8e/85/6d8e855ccd2dd53b416dd3e1f3040d6f.gif" alt="Decorative Icon" width="30" height="50">
+  <img src="https://i.pinimg.com/originals/ec/f1/7d/ecf17dfef0fdc4c256938308129892ff.gif" alt="Decorative Icon" width="30" height="50">
   <a href="https://s0apsy.atabook.org">Atabook</a>
-   <img src="https://i.pinimg.com/originals/6d/8e/85/6d8e855ccd2dd53b416dd3e1f3040d6f.gif" alt="Decorative Icon" width="30" height="50">
+   <img src="https://media.tenor.com/1ziz_e6Bg9MAAAAj/happy-nagito.gif" alt="Decorative Icon" width="30" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
 </p>
 
