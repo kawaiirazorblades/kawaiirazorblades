@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<p align="center">ask 4 discord</p>
+
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a>
   <img src="https://i.pinimg.com/originals/ec/f1/7d/ecf17dfef0fdc4c256938308129892ff.gif" alt="Decorative Icon" width="30" height="50">
