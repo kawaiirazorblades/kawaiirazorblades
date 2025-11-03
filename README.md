@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/i%20love%20my%20friends-%E2%99%A1-c7838c" />
+</p>
+
+<p align="center">
   <a href="https://example.com">
     <img src="https://files.catbox.moe/b5c3jy.png" alt="SP" width="500">
   </a>
