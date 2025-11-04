@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">ask 4 discord</p>
+<p align="center">⸜(｡˃ ᵕ ˂ )⸝♡</p>
 
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a>
