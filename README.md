@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/w9y70l.png" width="100"/>
   <img src="https://files.catbox.moe/btebcf.gif" width="100"/>
-  <img src="https://files.catbox.moe/w9y70l.png" width="100"/>
+  <img src="https://files.catbox.moe/o632as.png" width="100"/>
 </p>
 
 <p align="center">
