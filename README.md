@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://files.catbox.moe/w9y70l.png" width="100"/>
+  <img src="https://files.catbox.moe/btebcf.gif" width="100"/>
+  <img src="https://files.catbox.moe/w9y70l.png" width="100"/>
+</p>
 
 <p align="center">
-  <a href="https://example.com">
     <img src="https://files.catbox.moe/e0x2z2.png" alt="SP" width="500">
   </a>
 </p>
