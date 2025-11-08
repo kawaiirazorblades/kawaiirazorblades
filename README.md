@@ -17,6 +17,8 @@
   <a href="https://s0apsy.atabook.org">Atabook</a>
    <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
+   <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
+  <a href="https://rentry.co/poppysribbon">Rentry</a>
 </p>
 
 <p align="center">
