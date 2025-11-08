@@ -4,9 +4,6 @@
   <img src="https://files.catbox.moe/o632as.png" width="100"/>
 </p>
 
-<p align="center">𝜗ৎTHE poppy kinnie!𑣲</p>
-
-
 <p align="center">
     <img src="https://files.catbox.moe/e0x2z2.png" alt="SP" width="500">
   </a>
