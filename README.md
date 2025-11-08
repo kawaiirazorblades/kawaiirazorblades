@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a>
-  <img src="https://i.imgur.com/ma9D1U4.gif" alt="Decorative Icon" width="20" height="50">
+  <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://s0apsy.atabook.org">Atabook</a>
-   <img src="https://i.imgur.com/ma9D1U4.gif" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
 </p>
 
