@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://files.catbox.moe/w9y70l.png" width="100"/>
-  <img src="https://files.catbox.moe/btebcf.gif" width="100"/>
-  <img src="https://files.catbox.moe/o632as.png" width="100"/>
+  <img src="https://files.catbox.moe/trkc6t.jpg" width="100"/>
+  <img src="https://files.catbox.moe/x5sbxp.gif" width="100"/>
+  <img src="https://files.catbox.moe/k1pe52.png" width="100"/>
 </p>
 
 <p align="center">
-    <img src="https://files.catbox.moe/e0x2z2.png" alt="SP" width="500">
+    <img src="https://img.itch.zone/aW1hZ2UvMzY3NjAwMi8yMTg4NDgzMS5wbmc=/original/ClOuLY.png" alt="SP" width="300">
   </a>
 </p>
 
@@ -13,14 +13,14 @@
 
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a>
-  <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
+  <img src="https://i.imgur.com/4LteR6E.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://s0apsy.atabook.org">Atabook</a>
-   <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/4wbjvJX.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
-   <img src="https://i.imgur.com/KaAbmGo.gif" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/4LteR6E.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://rentry.co/poppysribbon">Rentry</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=bubbles&color=ff6ead" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=chat&color=8a1624" alt="Profile views">
 </p>
