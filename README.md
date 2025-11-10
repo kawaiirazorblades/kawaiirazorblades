@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="https://64.media.tumblr.com/82f506c13f1270dc243fa297e336f309/e673c98357d18b24-e6/s1280x1920/6d738928592064f47c3742988ddcf316d61f7215.png" alt="SP" width="500">
+    <img src="https://files.catbox.moe/dh6518.png" alt="SP" width="400">
   </a>
 </p>
 
@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://sosoapsy.straw.page">Strawpage</a>
-  <img src="https://i.imgur.com/4LteR6E.gif" alt="Decorative Icon" width="20" height="50">
+  <img src="https://i.imgur.com/93nOZIL.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://s0apsy.atabook.org">Atabook</a>
-   <img src="https://i.imgur.com/4wbjvJX.gif" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
-   <img src="https://i.imgur.com/4LteR6E.gif" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/93nOZIL.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://rentry.co/poppysribbon">Rentry</a>
 </p>
 
