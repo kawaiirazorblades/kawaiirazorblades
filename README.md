@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.itch.zone/aW1hZ2UvMzY3NjAwMi8yMTg4NDgzMS5wbmc=/original/ClOuLY.png" alt="SP" width="300">
+    <img src="https://64.media.tumblr.com/82f506c13f1270dc243fa297e336f309/e673c98357d18b24-e6/s1280x1920/6d738928592064f47c3742988ddcf316d61f7215.png" alt="SP" width="500">
   </a>
 </p>
 
