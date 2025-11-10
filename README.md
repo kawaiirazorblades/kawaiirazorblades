@@ -23,7 +23,7 @@
    <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
    <img src="https://i.imgur.com/93nOZIL.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://rentry.co/poppysribbon">Rentry</a>
+  <a href=".">Rentry(WIP)</a>
 </p>
 
 <p align="center">
