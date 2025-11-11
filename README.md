@@ -17,13 +17,9 @@
 <p align="center">⸜(｡˃ ᵕ ˂ )⸝♡</p>
 
 <p align="center">
-  <a href="https://sosoapsy.straw.page">Strawpage</a>
-  <img src="https://i.imgur.com/93nOZIL.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://s0apsy.atabook.org">Atabook</a>
    <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://pronouns.cc/@kawaiirazorblades">Pronouns</a>
-   <img src="https://i.imgur.com/93nOZIL.gif" alt="Decorative Icon" width="20" height="50">
-  <a href=".">Rentry(WIP)</a>
+  <a href="https://rentry.co/quackityzzk">RENTRY</a>
+   <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
 </p>
 
 <p align="center">
