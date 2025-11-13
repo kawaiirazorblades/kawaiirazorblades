@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files.catbox.moe/9qtod2.png" width="500" height="200">
-</p>
-
 <p align="center">⸜(｡˃ ᵕ ˂ )⸝♡</p>
 
 <p align="center">
@@ -14,6 +10,3 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=ducks&color=3ba7ff" alt="Profile views">
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/28grb8.png" width="500" height="200">
-</p>
