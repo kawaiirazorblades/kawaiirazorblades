@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/ru5tx7.png" alt="hi" width="400" />
+  <img src="https://files.catbox.moe/qcu6n3.png" alt="hi" width="400" />
 </p>
 <p align="center">⸜(｡˃ ᵕ ˂ )⸝♡</p>
 
