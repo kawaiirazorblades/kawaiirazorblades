@@ -5,15 +5,6 @@
 <p align="center">
   <img src="https://files.catbox.moe/nf01ps.png" alt="hi" width="400" />
 
-
-<p align="center">
-  <a href="https://github.com/CrayonXDDD">big idiot that u should NOT follow.</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Pixelbrickz">plant :)</a>
-  <a href="https://github.com/ChokingRedRoses">FREAAAAK</a>
-</p>
-
 <p align="center">
    <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://rentry.co/quackityzzk">RENTRY</a>
