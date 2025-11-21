@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/CrayonXDDD">big idiot that u should follow i think</a>
+  <a href="https://github.com/CrayonXDDD">big idiot that u should NOT follow.</a>
 </p>
 <p align="center">
   <a href="https://github.com/Pixelbrickz">plant :)</a>
