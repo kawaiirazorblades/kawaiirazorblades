@@ -3,7 +3,7 @@
 <p align="center">art by me :P</p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/nf01ps.png" alt="hi" width="400" />
+  <img src="https://files.catbox.moe/nf01ps.png" alt="hi" width="500" />
 
 <p align="center">
    <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
