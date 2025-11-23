@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=muffinfucks&color=033dfc" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=ducks&color=033dfc" alt="Profile views">
 </p>
