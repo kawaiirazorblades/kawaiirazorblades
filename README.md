@@ -6,9 +6,9 @@
   <img src="https://files.catbox.moe/nf01ps.png" alt="hi" width="450" />
 
 <p align="center">
-   <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://rentry.co/quackityzzk">RENTRY</a>
-   <img src="https://i.imgur.com/mfIKJ6E.gif" alt="Decorative Icon" width="20" height="50">
+   <img src="https://pixels.crd.co/assets/images/gallery119/f52435dc.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
+  <a href="https://rentry.co/quacktheduck">RENTRY</a>
+   <img src="https://pixels.crd.co/assets/images/gallery05/29bf4fca.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
 </p>
 
 <p align="center">
