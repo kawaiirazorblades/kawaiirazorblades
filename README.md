@@ -1,9 +1,6 @@
 </p>
 <p align="center">🌀⋆ ; my name is a song by sewerslvt, go check it out.</p>
 
-<p align="center">
-  <a href="https://colormytree.me/2025/01JE5RJCA630E114N0F0PKYXB7">GO COLOR MY TREE BTW!</a>
-
 </p>
 <p align="center">art by me :P</p>
 
