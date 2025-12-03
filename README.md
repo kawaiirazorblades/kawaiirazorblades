@@ -6,7 +6,7 @@
 
 <p align="center">
    <img src="https://i.imgur.com/PJg5MU5.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://rentry.co/quacktheduck">RENTRY</a>
+  <a href="https://rentry.co/c00l3stk1dd">RENTRY</a>
    <img src="https://i.imgur.com/5MsPHL8.gif" alt="Decorative Icon" width="20" height="50">
 </p>
 
