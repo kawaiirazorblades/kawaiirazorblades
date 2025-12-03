@@ -1,18 +1,18 @@
 </p>
-<p align="center">🌀⋆ ; my name is a song by sewerslvt, go check it out.</p>
+<p align="center">🎀⋆ ; my name is a song by sewerslvt, go check it out.</p>
 
 </p>
-<p align="center">art by me :P</p>
+<p align="center">new art soon maybe idk</p>
 
 <p align="center">
-   <img src="https://pixels.crd.co/assets/images/gallery119/f52435dc.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/PJg5MU5.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://rentry.co/quacktheduck">RENTRY</a>
-   <img src="https://pixels.crd.co/assets/images/gallery05/29bf4fca.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
+   <img src="https://i.imgur.com/5MsPHL8.gif" alt="Decorative Icon" width="20" height="50">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/nf01ps.png" alt="hi" width="450" />
+  <img src="https://static.wikitide.net/mythcommunitywiki/9/9f/C00lkidd.png" alt="hi" width="450" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=ducks&color=033dfc" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=cool+kids&color=ff0000" alt="Profile views">
 </p>
