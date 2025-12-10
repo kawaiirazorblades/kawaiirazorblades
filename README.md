@@ -2,7 +2,7 @@
 <p align="center">🎀⋆ ; my name is a song by sewerslvt, go check it out.</p>
 
 </p>
-<p align="center">new art soon maybe idk</p>
+<p align="center">new art soon, maybe.. idk</p>
 
 <p align="center">
    <img src="https://i.imgur.com/PJg5MU5.gif" alt="Decorative Icon" width="20" height="50">
