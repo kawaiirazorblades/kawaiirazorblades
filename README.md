@@ -5,7 +5,7 @@
 <p align="center">new art soon, maybe.. idk</p>
 
 <p align="center">
-  <a href="https://atabook.org/control/messages">hi this is my ata go sign it</a>
+  <a href="https://guyfromultrakill.atabook.org">hi this is my ata go sign it</a>
    
 <p align="center">
    <img src="https://64.media.tumblr.com/9a24bcd458c75739542ee7b43e0b2f3e/5391654d66e48e8c-0f/s75x75_c1/d7e13697c6917c74cc7ad3e04b0cc1c8cf0ed28e.gifv" alt="Decorative Icon" width="20" height="50">
