@@ -4,14 +4,15 @@
 <p align="center">
   <a> art by me!! </a>
 
-<p align="center">
-  <a href="https://guyfromultrakill.atabook.org">hi this is my ata go sign it</a>
+
    
 <p align="center">
    <img src="https://i.imgur.com/ZgI7YZ6.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">PRONOUNS</a>
    <img src="https://i.imgur.com/Em9lJ2U.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://theguyfromultrakill.straw.page">STRAWPAGE</a>
+  <a href="https://bubbl3s.atabook.org">ATABOOK</a>
+   <img src="https://i.imgur.com/Em9lJ2U.gif" alt="Decorative Icon" width="20" height="50">
+  <a href="https://popopoppy.straw.page">STRAWPAGE</a>
    <img src="https://i.imgur.com/ZgI7YZ6.gif" alt="Decorative Icon" width="20" height="50">
 </p>
 
