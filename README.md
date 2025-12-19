@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2l80ohGZQMcAAAAj/gabriel-ultrakill.gif" alt="hi" width="450" />
+  <img src="https://files.catbox.moe/zu788d.gif" alt="hi" width="300" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=sinners&color=f0b446" alt="Profile views">
