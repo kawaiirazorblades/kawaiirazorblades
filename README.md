@@ -1,11 +1,6 @@
 </p>
 <p align="center">⭐⋆ ; my name is a song by sewerslvt, go check it out!⋆ ;⭐</p>
-
-<p align="center">
-  <a> art by me!! </a>
-
-
-   
+  
 <p align="center">
    <img src="https://i.imgur.com/rZBl8wX.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">PRONOUNS</a>
