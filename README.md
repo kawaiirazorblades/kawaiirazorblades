@@ -12,7 +12,7 @@
    <img src="https://i.imgur.com/D5okAFL.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://sk8r.atabook.org">ATABOOK</a>
    <img src="https://i.imgur.com/D5okAFL.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://popopoppy.straw.page">STRAWPAGE</a>
+  <a href="https://sk8rrrrz.straw.page">STRAWPAGE</a>
    <img src="https://i.imgur.com/rZBl8wX.gif" alt="Decorative Icon" width="20" height="50">
 </p>
 
