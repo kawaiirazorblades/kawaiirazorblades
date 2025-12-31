@@ -5,7 +5,7 @@
    <img src="https://i.imgur.com/f6NoB3H.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://pronouns.cc/@kawaiirazorblades">PRONOUNS</a>
    <img src="https://i.imgur.com/nFlb7Fi.gif" alt="Decorative Icon" width="20" height="50">
-  <a href="https://sk8r.atabook.org">ATABOOK</a>
+  <a href="https://h4xx1ngu.atabook.org">ATABOOK</a>
    <img src="https://i.imgur.com/nFlb7Fi.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://sk8rrrrz.straw.page">STRAWPAGE</a>
    <img src="https://i.imgur.com/f6NoB3H.gif" alt="Decorative Icon" width="20" height="50">
