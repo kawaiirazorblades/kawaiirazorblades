@@ -15,5 +15,5 @@
   <img src="https://preview.redd.it/007n7-render-drop-v0-om8fvihsf0xe1.png?width=640&crop=smart&auto=webp&s=63ac81eac468e64c664fd755c769d9f8106c3fe1" alt="hi" width="400" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=skaters&color=a12325" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=uhhhh&color=a12325" alt="Profile views">
 </p>
