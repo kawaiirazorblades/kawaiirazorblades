@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/a6/a8/42a6a8a1e4406201f1dce6c5ecd1c868.png" alt="hi" width="400" />
+  <img src="https://preview.redd.it/007n7-render-drop-v0-om8fvihsf0xe1.png?width=640&crop=smart&auto=webp&s=63ac81eac468e64c664fd755c769d9f8106c3fe1" alt="hi" width="400" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=skaters&color=a12325" alt="Profile views">
