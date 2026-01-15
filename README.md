@@ -12,6 +12,9 @@
 </p>
 
 <p align="center">
+<img src="https://i.imgur.com/dvhleR0.gif" alt="Decorative Icon">follow <a href="https://github.com/CrayonXDDD">this guy</a> haha im NOT being held at gunpoint 2 say this.<img src="https://i.imgur.com/dvhleR0.gif" alt="Decorative Icon">
+
+<p align="center">
   <img src="https://files.catbox.moe/k92gmo.png" alt="hi" width="400" />
 
 <p align="center">
