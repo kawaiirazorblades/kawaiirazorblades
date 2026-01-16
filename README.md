@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://files.catbox.moe/qbla9l.gif" alt="hi" width="300" />
+
 </p>
 <p align="center">⭐⋆ ; my name is a song by sewerslvt, go check it out!⋆ ;⭐</p>
   
