@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/qbla9l.gif" alt="hi" width="300" />
+  <img src="https://64.media.tumblr.com/73bec7240536f3dbd6a63ed8545ca05f/291b57fc1bf1e0d5-1f/s2048x3072/608ef37dc6304a3a317f66e4f4df9510b59c5c32.pnj" alt="hi" width="600" />
 
 </p>
 <p align="center">⭐⋆ ; my name is a song by sewerslvt, go check it out!⋆ ;⭐</p>
