@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/6d29de15a4e3d65e76030d5253ed400b5f7c62d4
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/dvhleR0.gif" alt="Decorative Icon">follow <a href="https://github.com/CrayonXDDD">this guy</a> haha im NOT being held at gunpoint 2 say this.<img src="https://i.imgur.com/dvhleR0.gif" alt="Decorative Icon">
+<img src="https://i.imgur.com/dvhleR0.gif" alt="Decorative Icon"><a href="https://github.com/CrayonXDDD">this guy</a> is gonna get executed in the 5th of november.<img src="https://i.imgur.com/dvhleR0.gif" alt="Decorative Icon">
 
 <p align="center">
   <img src="https://files.catbox.moe/k92gmo.png" alt="hi" width="400" />
