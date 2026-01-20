@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/lwi5po.png" alt="hi" width="900" height="150" />
+  <img src="https://files.catbox.moe/lqdv3n.png" alt="hi" width="900" height="150" />
 
 </p>
 <p align="center">❗⋆ ; my name is a song by sewerslvt, go check it out!⋆ ;❗</p>
@@ -20,11 +20,11 @@ src="https://camo.githubusercontent.com/6d29de15a4e3d65e76030d5253ed400b5f7c62d4
 <img src="https://i.imgur.com/yEWoEPZ.gif" alt="Decorative Icon"><a href="https://github.com/CrayonXDDD">this guy</a> is gonna get executed in the 5th of november.<img src="https://i.imgur.com/lluS3Wh.gif" alt="Decorative Icon">
 
 <p align="center">
-  <img src="https://files.catbox.moe/3gckib.png" alt="hi" width="400" />
+  <img src="https://files.catbox.moe/9daovb.png" alt="hi" width="400" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=uhhhh&color=b30000" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/aw13fy.png" alt="hi" width="900" height="150" />
+  <img src="https://files.catbox.moe/pcahr5.png" alt="hi" width="900" height="150" />
