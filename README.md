@@ -9,7 +9,7 @@
    <a href="https://pronouns.cc/@kawaiirazorblades">PRONOUNS</a>
      <img 
 src="https://i.postimg.cc/fT9xFQxf/spira1.gif" alt="Decorative Icon" width="20" height="50">
-   <a href="https://chknbrgr.atabook.org">ATABOOK</a>
+   <a href="https://noioioioioboing.atabook.org">ATABOOK</a>
    <img 
 src="https://i.postimg.cc/fT9xFQxf/spira1.gif" alt="Decorative Icon" width="20" height="50">
   <a href="https://989889.straw.page">STRAWPAGE</a>
