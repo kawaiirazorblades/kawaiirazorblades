@@ -17,7 +17,7 @@ src="https://i.imgur.com/UFeG0DL.gif" alt="Decorative Icon" width="20" height="5
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/U3URmjU.gif" alt="Decorative Icon"><a href="https://github.com/CrayonXDDD">this guy</a> is gonna get executed on the 5th of november.<img src="https://i.imgur.com/8O0rIuM.gif" alt="Decorative Icon">
+<img src="https://i.imgur.com/U3URmjU.gif" alt="Decorative Icon"><a href="https://github.com/CrayonXDDD">this freak</a> and <a href="https://github.com/puplexis">this freak</a> r gonna explode very soon.<img src="https://i.imgur.com/8O0rIuM.gif" alt="Decorative Icon">
 
 <p align="center">
   <img src="https://files.catbox.moe/oo1kal.gif" alt="hi" width="200" />
