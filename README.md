@@ -17,7 +17,7 @@ src="https://64.media.tumblr.com/42a3e33d52c4c4c1085f51c346fda918/015d47a3e0c001
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/bpv6p9.png" alt="hi" width="300" />
+  <img src="https://files.catbox.moe/pi3a2k.png" alt="hi" width="300" />
 
   <p align="center">
   <img src="https://i.postimg.cc/28S7YVhg/jxkkf5.gif" alt="hi" width="80" />
