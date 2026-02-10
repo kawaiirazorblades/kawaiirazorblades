@@ -20,7 +20,7 @@ src="https://64.media.tumblr.com/42a3e33d52c4c4c1085f51c346fda918/015d47a3e0c001
   <img src="https://files.catbox.moe/pi3a2k.png" alt="hi" width="300" />
 
   <p align="center">
-  <img src="https://i.postimg.cc/28S7YVhg/jxkkf5.gif" alt="hi" width="80" />
+  <img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/48.gif" alt="hi" width="60" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=lelele&color=c8c5d4" alt="Profile views"> </p>
