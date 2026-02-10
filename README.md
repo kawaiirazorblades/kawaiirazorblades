@@ -20,9 +20,9 @@ src="https://64.media.tumblr.com/42a3e33d52c4c4c1085f51c346fda918/015d47a3e0c001
   <img src="https://files.catbox.moe/pi3a2k.png" alt="hi" width="300" />
 
   <p align="center">
-  <img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/48.gif" alt="hi" width="60" />
+  <img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/4.gif" alt="hi" width="80" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=lelele&color=c8c5d4" alt="Profile views"> </p>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=nerdolas&color=c8c5d4" alt="Profile views"> </p>
 <p align="center">
   <img src="https://64.media.tumblr.com/d6996a9f345a0f611e61f7067a4c9447/779aa251fd339498-f4/s2048x3072/5cae228d526d993e9b179ac02a13839d8fe85ee2.pnj" height="200" />
