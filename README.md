@@ -17,12 +17,13 @@ src="https://64.media.tumblr.com/42a3e33d52c4c4c1085f51c346fda918/015d47a3e0c001
 </p>
 
 <p align="center">
-<img width="250" height="736" alt="283_Sem_Titulo_20260214011743" src="https://github.com/user-attachments/assets/9e2effe1-1f9f-4bec-8a37-6c85f8d53f7d" />
+<img width="200" height="200" alt="imagem_2026-02-17_181508758" src="https://github.com/user-attachments/assets/40b88492-eb23-48e6-810a-39bf1ce2cf4d" />
+
 
   <p align="center">
-  <img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/4.gif" width="80" />
+  <img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/11pink/48.gif" width="60" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=bananas&color=aaa0b8" alt="Profile views"> </p>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=bunnies&color=caacb5" alt="Profile views"> </p>
 <p align="center">
   <img src="https://64.media.tumblr.com/d6996a9f345a0f611e61f7067a4c9447/779aa251fd339498-f4/s2048x3072/5cae228d526d993e9b179ac02a13839d8fe85ee2.pnj" height="200" />
