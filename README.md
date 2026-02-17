@@ -21,7 +21,7 @@ src="https://64.media.tumblr.com/42a3e33d52c4c4c1085f51c346fda918/015d47a3e0c001
 
 
   <p align="center">
-  <img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/11pink/48.gif" width="60" />
+  <img src="https://files.catbox.moe/ykrla0.gif" width="70" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=bunnies&color=caacb5" alt="Profile views"> </p>
