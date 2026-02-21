@@ -10,9 +10,6 @@
      <img 
 src="https://pixels.crd.co/assets/images/gallery124/ebb77b8b.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
    <a href="https://nerfthisnewbz.atabook.org">ATABOOK</a>
-   <img 
-src="https://pixels.crd.co/assets/images/gallery124/ebb77b8b.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
-  <a href="https://989889.straw.page">STRAWPAGE</a>
    <img src="https://pixels.crd.co/assets/images/gallery32/f02ece85.gif?v=29416114" alt="Decorative Icon" width="20" height="50">
 </p>
 
