@@ -6,10 +6,7 @@
 
 <p align="center">
 <img width="20" height="20" alt="imagem_2026-02-23_161036562" src="https://github.com/user-attachments/assets/88b47e89-e79c-45af-9f5c-75d3ca5b3a53" />
-   <a href="https://pronouns.cc/@kawaiirazorblades">PRONOUNS</a>
-     <img 
-<img width="20" height="20" alt="imagem_2026-02-23_161059490" src="https://github.com/user-attachments/assets/f7432e3b-57d4-4d2c-9098-c1f4c289986d" />
-   <a href="https://f4stesthing4live.atabook.org">ATABOOK</a>
+   <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a>
  <img width="20" height="20" alt="imagem_2026-02-23_161036562" src="https://github.com/user-attachments/assets/88b47e89-e79c-45af-9f5c-75d3ca5b3a53" />
 </p>
 
