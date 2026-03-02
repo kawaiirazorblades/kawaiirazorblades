@@ -2,10 +2,12 @@
 <p align="center"> ❝ ; my name is a song by sewerslvt, go check it out! ; ❞ </p>
 
 <p align="center">
-<img width="500" alt="imagem_2026-02-28_065459424" src="https://github.com/user-attachments/assets/e09c1721-b6fb-4b57-ae41-0c63c3930cb2" />
+<img width="30" alt="imagem_2026-03-02_005213135" src="https://github.com/user-attachments/assets/7aa40e05-e835-4f9c-becb-828329d29359" />
+<img width="20" alt="imagem_2026-03-02_005123823" src="https://github.com/user-attachments/assets/18960b1c-6e4d-4dcb-adcc-a86e886db175" />
+<a href="https://kwaiirzrs.straw.page">STRAWPAGE</a>
+<img width="20" alt="imagem_2026-03-02_005123823" src="https://github.com/user-attachments/assets/18960b1c-6e4d-4dcb-adcc-a86e886db175" />
+<img width="30" alt="imagem_2026-03-02_005213135" src="https://github.com/user-attachments/assets/7aa40e05-e835-4f9c-becb-828329d29359" />
+</p>
 
 <p align="center">
-<img width="100" alt="imagem_2026-02-28_065718442" src="https://github.com/user-attachments/assets/2913bae8-151f-4672-a050-29bcc641fea5" />
-   <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a>
-<img width="100" alt="imagem_2026-02-28_065726209" src="https://github.com/user-attachments/assets/409a8136-1ed6-42fd-8f1e-c24c76e40b04" />
-</p>
+<img width="400" alt="imagem_2026-03-02_005259684" src="https://github.com/user-attachments/assets/58392f77-371c-4a0d-92df-ba03d91c1285" />
