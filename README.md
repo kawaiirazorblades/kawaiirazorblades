@@ -10,4 +10,10 @@
 </p>
 
 <p align="center">
-<img width="400" alt="imagem_2026-03-02_005259684" src="https://github.com/user-attachments/assets/58392f77-371c-4a0d-92df-ba03d91c1285" />
+<img width="300" alt="imagem_2026-03-02_005601622" src="https://github.com/user-attachments/assets/ac7372e0-a00c-4490-9aa9-4fcc9aab8a49" />
+
+<p align="center">
+<img width="60" alt="imagem_2026-03-02_005848471" src="https://github.com/user-attachments/assets/2251ead3-f3c9-4dc7-9c46-6bc04d14c08c" />
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=chilli+dogs&color=4e5f78" alt="Profile views"> </p>
