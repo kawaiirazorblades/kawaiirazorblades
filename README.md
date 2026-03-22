@@ -2,13 +2,14 @@
 <p align="center"> ❝ ; my name is a song by sewerslvt, go check it out! ; ❞ </p>
 
 <p align="center">
-<img width="50" height="32" alt="imagem_2026-03-06_234834107" src="https://i.postimg.cc/25Q2B8sC/rolling-dice-pixel.gif" />
+<img width="20" height="20" alt="imagem_2026-03-22_222541811" src="https://github.com/user-attachments/assets/299f2e02-0e20-421d-a50a-4937a86c6562" />
 <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a>
-<img width="50" height="32" alt="imagem_2026-03-06_234849963" src="https://i.postimg.cc/25Q2B8sC/rolling-dice-pixel.gif" />
+<img width="20" height="20" alt="imagem_2026-03-22_222541811" src="https://github.com/user-attachments/assets/299f2e02-0e20-421d-a50a-4937a86c6562" />
 </p>
 
 <p align="center">
-<img width="400" alt="imagem_2026-03-06_234722729" src="https://files.catbox.moe/c5dt6l.png" />
+<img width="400"" alt="lkjljlkjp" src="https://github.com/user-attachments/assets/bed9d118-f090-4cbc-a1bd-721e0b50c437" />
+
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=cheaters&color=9500c5" alt="Profile views"> </p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=linnmoes&color=f5c542" alt="Profile views"> </p>
