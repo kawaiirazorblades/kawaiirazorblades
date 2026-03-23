@@ -11,4 +11,4 @@
 <img width="400" alt="hjh" src="https://github.com/user-attachments/assets/f23ca7a4-e820-4461-a842-e77e3c77fe91" />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=nerfs&color=de7c9e" alt="Profile views"> </p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=kill+streak&color=de7c9e" alt="Profile views"> </p>
