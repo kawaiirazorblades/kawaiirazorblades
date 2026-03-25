@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-uhhh im still drawing ok 
+im still drawing ok 
 
 <p align="center">
 pretend theres a rlly awesome quackity drawing here
