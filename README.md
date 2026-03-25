@@ -2,13 +2,16 @@
 <p align="center"> ❝ ; my name is a song by sewerslvt, go check it out! ; ❞ </p>
 
 <p align="center">
-<img width="18" height="18" alt="imagem_2026-03-23_102803669" src="https://github.com/user-attachments/assets/b5b2a490-9709-49ef-bf50-cc42e2b0157a" />
+<img width="20" height="20" alt="imagem_2026-03-25_105815214" src="https://github.com/user-attachments/assets/d535248f-001a-49dc-bfc2-bfc1a348d5c8" />
 <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a>
-<img width="18" height="18" alt="imagem_2026-03-23_102803669" src="https://github.com/user-attachments/assets/b5b2a490-9709-49ef-bf50-cc42e2b0157a" />
+<img width="20" height="20" alt="imagem_2026-03-25_105815214" src="https://github.com/user-attachments/assets/d535248f-001a-49dc-bfc2-bfc1a348d5c8" />
 </p>
 
 <p align="center">
-<img width="400" alt="hjh" src="https://github.com/user-attachments/assets/f23ca7a4-e820-4461-a842-e77e3c77fe91" />
+uhhh im still drawing ok 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=kill+streak&color=de7c9e" alt="Profile views"> </p>
+pretend theres a rlly awesome quackity drawing here
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=ducks&color=405fad" alt="Profile views"> </p>
