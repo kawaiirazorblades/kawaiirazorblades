@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img width="300" alt="hjh" src="https://github.com/user-attachments/assets/818f27c3-e7de-44de-a199-99ed8775c2e3" />
+<img width="300" alt="UIHeSlA" src="https://files.catbox.moe/m8y9v2.gif" />
 
 
 
