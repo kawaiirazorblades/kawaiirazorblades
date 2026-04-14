@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-<img width="400" src="https://files.catbox.moe/85n7ii.png" />
+<img width="300" alt="hjh" src="https://github.com/user-attachments/assets/818f27c3-e7de-44de-a199-99ed8775c2e3" />
+
 
 
 
