@@ -4,15 +4,15 @@
 <p align="center"> evil <a href="https://github.com/CrayonXDDD">crayon</a>, evil <a href="https://github.com/Pixelbrickz">plant</a> and evil <a href="https://github.com/ChokingRedRoses">kai.</a>
   
 <p align="center">
-<img width="18" height="18" alt="UIHeSlA" src="https://i.imgur.com/xOjym2d.gif" />
+<img width="18" height="18" alt="UIHeSlA" src="https://i.imgur.com/1MfCIHh.gif" />
   <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a>
-  <img width="18" height="18" alt="UIHeSlA" src="https://i.imgur.com/xOjym2d.gif" />
+  <img width="18" height="18" alt="UIHeSlA" src="https://i.imgur.com/1MfCIHh.gif" />
 </p>
 
 <p align="center">
-<img width="300" alt="UIHeSlA" src="https://i.pinimg.com/originals/22/61/8d/22618daee72aa7830e1ae241a14b883c.gif">
+<img width="300" alt="UIHeSlA" src="https://github.com/user-attachments/assets/a84a046e-26b6-4486-a41c-7d3d98d5a55b" />
 
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=uhmmm+uhuhhhh&color=e86609" alt="Profile views"> </p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=STARS!&color=f797bf" alt="Profile views"> </p>
