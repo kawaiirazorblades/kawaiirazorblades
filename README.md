@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-<img width="400" alt="3dgifmaker40106" src="https://github.com/user-attachments/assets/8a16df15-d86f-49f9-84ac-2a719034f754" />
+<img width="300" alt="538_Sem_Titulo_20260426192735" src="https://github.com/user-attachments/assets/81ed8392-1b04-42b8-86ef-40af44d714e2" />
+
 
 <p align="center">
 art by me ok? ok. ;-;
