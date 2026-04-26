@@ -10,8 +10,10 @@
 </p>
 
 <p align="center">
-<img width="300" src="https://preview.redd.it/random-chester-brawl-stars-render-v0-mw9d0f8774kf1.png?auto=webp&s=3c3ab8278c4aff5a39909c7f635f91eaf5db07fb" />
+<img width="400" alt="3dgifmaker40106" src="https://github.com/user-attachments/assets/8a16df15-d86f-49f9-84ac-2a719034f754" />
 
+<p align="center">
+art by me ok? ok. ;-;
 
 
 <p align="center">
