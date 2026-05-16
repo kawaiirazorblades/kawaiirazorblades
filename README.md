@@ -1,7 +1,8 @@
 </p>
 <p align="center"> ❝ ; my name is a song by sewerslvt, go check it out! ; ❞ </p>
 
-<p align="center"> evil <a href="https://github.com/CrayonXDDD">crayon</a>, evil <a href="https://github.com/Pixelbrickz">plant</a> and evil <a href="https://github.com/ChokingRedRoses">kai.</a>
+<p align="center"> 
+evil <a href="https://github.com/Pixelbrickz">plant</a> and evil <a href="https://github.com/ChokingRedRoses">kai.</a>
   
 <p align="center"> <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a> </p>
 
