@@ -2,7 +2,7 @@
 <p align="center"> ❝ ; my name is a song by sewerslvt, go check it out! ; ❞ </p>
 
 <p align="center"> 
-evil <a href="https://github.com/Pixelbrickz">plant</a> and evil <a href="https://github.com/ChokingRedRoses">kai.</a>
+go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a href="https://github.com/ChokingRedRoses">kai.</a> <3
   
 <p align="center"> <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a> </p>
 
