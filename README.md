@@ -7,7 +7,7 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
 <p align="center"> <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a> </p>
 
 <p align="center">
-<img width="225" height="225" alt="images (2)" src="https://github.com/user-attachments/assets/b1cf00cb-de08-4d4d-82b0-cc4bc03675f5" />
+<img width="200" alt="gakupo-vocaloid" src="https://github.com/user-attachments/assets/364ee063-12c5-474c-acfa-cce3e9f5d4bb" />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=i+forgot&color=ece063" alt="Profile views"> </p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=drools+all+over+yall&color=451d75" alt="Profile views"> </p>
