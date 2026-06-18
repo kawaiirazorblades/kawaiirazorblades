@@ -7,7 +7,13 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
 <p align="center"> <a href="https://kwaiirzrs.straw.page">STRAWPAGE</a> </p>
 
 <p align="center">
-<img width="500" height="300" alt="ezgif-1a0db043681ef167" src="https://github.com/user-attachments/assets/3d6b84fb-b324-431b-aa9a-392f6c96bc13" />
+<img width="500" height="300" alt="ezgif-71504f1a2fb99756" src="https://github.com/user-attachments/assets/9331beb2-e47e-43b2-909b-b89062e71f6e" />
+
+
+
+
+
+
 
 
 
