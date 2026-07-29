@@ -8,7 +8,8 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
   <a href="https://listography.com/kawaiirzrz?m=6404158689">listography</a> ⋆ <a href="https://kwaiirzrs.straw.page">strawpage</a> ⋆ <a href="https://t0kki.atabook.org">atabook</a> ⋆  <a href="https://pronouns.cc/@kawaiirazorblades">pronouns</a>
 
 <p align="center">
-<img width="500" height="300" alt="ezgif-71504f1a2fb99756" src="https://github.com/user-attachments/assets/9331beb2-e47e-43b2-909b-b89062e71f6e" />
+<img width="500" height="250" alt="animesher com_liz-it-moves-death-the-kid-233180" src="https://github.com/user-attachments/assets/aee79319-f4e5-47fe-b33e-9c0e24082f7b" />
+
 
 
 <p align="center">
@@ -20,4 +21,4 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=killstreak&color=f77eaf" alt="Profile views"> </p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=souls&color=000000" alt="Profile views"> </p>
