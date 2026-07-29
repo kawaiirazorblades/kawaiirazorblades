@@ -8,7 +8,8 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
   <a href="https://listography.com/kawaiirzrz?m=6404158689">listography</a> ⋆ <a href="https://kwaiirzrs.straw.page">strawpage</a> ⋆ <a href="https://t0kki.atabook.org">atabook</a> ⋆  <a href="https://pronouns.cc/@kawaiirazorblades">pronouns</a>
 
 <p align="center">
-<img width="500" height="250" alt="animesher com_liz-it-moves-death-the-kid-233180" src="https://github.com/user-attachments/assets/aee79319-f4e5-47fe-b33e-9c0e24082f7b" />
+<img width="500" height="281" alt="3a023513641a5d173f685ca71b3126b4" src="https://github.com/user-attachments/assets/a519a70b-d88a-4701-a11f-fa215b18fc53" />
+
 
 
 
