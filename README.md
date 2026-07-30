@@ -23,4 +23,4 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=souls&color=000000" alt="Profile views"> </p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=killstreak!&color=ff94bd" alt="Profile views"> </p>
