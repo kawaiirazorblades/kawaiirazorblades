@@ -8,7 +8,7 @@ go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a hr
   <a href="https://listography.com/kawaiirzrz?m=6404158689">listography</a> ⋆ <a href="https://kwaiirzrs.straw.page">strawpage</a> ⋆ <a href="https://pronouns.cc/@kawaiirazorblades">pronouns</a> ⋆  <a href="https://t0kki.atabook.org">atabook</a>
 
 <p align="center">
-<img width="500" height="300" alt="ezgif-71504f1a2fb99756" src="https://github.com/user-attachments/assets/737288ba-7f1f-430c-91ed-e3135fd0461b" />
+<img width="600" alt="klkl" src="https://github.com/user-attachments/assets/22091e1d-d35d-4613-9ba0-e2bccb99e8fe" />
 
 
 
