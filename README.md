@@ -1,5 +1,5 @@
 </p>
-<p align="center"> ❝ my name is a song by sewerslvt, stop bothering me ;-; ❞ </p>
+<p align="center"> ❝ my user is a <a href="https://www.youtube.com/watch?v=m-qr6a_7flo&list=RDm-qr6a_7flo&start_radio=1">song by sewerslvt</a>, stop bothering me abt it ;-; ❞ </p>
 
 <p align="center"> 
 go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> ♡ <a href="https://github.com/ChokingRedRoses">kai.</a> ^.^
