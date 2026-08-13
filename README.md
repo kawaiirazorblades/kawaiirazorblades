@@ -1,8 +1,8 @@
 </p>
-<p align="center"> ❝ ; my name is a song by sewerslvt, go check it out! ; ❞ </p>
+<p align="center"> ❝ my name is a song by sewerslvt, stop bothering me ;-; ❞ </p>
 
 <p align="center"> 
-go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> , <a href="https://github.com/ChokingRedRoses">kai.</a> <3
+go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> ♡ <a href="https://github.com/ChokingRedRoses">kai.</a> ^.^
 
 <p align="center"> 
   <a href="https://listography.com/kawaiirzrz?m=6404158689">listography</a> ⋆ <a href="https://kwaiirzrs.straw.page">strawpage</a> ⋆ <a href="https://pronouns.cc/@kawaiirazorblades">pronouns</a> ⋆  <a href="https://t0kki.atabook.org">atabook</a>
