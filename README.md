@@ -1,23 +1,33 @@
-</p>
-<p align="center"> ❝ my user is a <a href="https://www.youtube.com/watch?v=m-qr6a_7flo&list=RDm-qr6a_7flo&start_radio=1">song by sewerslvt</a>, stop bothering me abt it ;-; ❞ </p>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Daydream&weight=200&size=15&pause=1000&color=FF94BD&center=true&vCenter=true&width=600&lines=Hiya%2C+This+is+D.Va!;If+you+ever+see+anyone+else+get+Mvp;That's+just+the+system+being+broken!" alt="Typing SVG" /></a> <p>
 
-<p align="center"> 
+<p>
+  <img src="https://files.catbox.moe/iesh5n.png" width="350" align="right" />
+
+<p align="center">
+  <a href="https://listography.com/kawaiirzrz?m=6404158689">listography</a> ✩
+</p>
+
+<p align="center">
+  <a href="https://kwaiirzrs.straw.page">strawpage</a> ✩
+</p>
+
+<p align="center">
+  <a href="https://pronouns.cc/@kawaiirazorblades">pronouns</a> ✩
+</p>
+
+<p align="center">
+  <a href="https://t0kki.atabook.org">atabook</a> ✩
+</p>
+
+<p align="center">
+<img width="22" height="23" alt="08818d03" src="https://github.com/user-attachments/assets/01fd55a2-f507-4631-8936-2400b207a852" />
 go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> ♡ <a href="https://github.com/ChokingRedRoses">kai.</a> ^.^
-
-<p align="center"> 
-  <a href="https://listography.com/kawaiirzrz?m=6404158689">listography</a> ⋆ <a href="https://kwaiirzrs.straw.page">strawpage</a> ⋆ <a href="https://pronouns.cc/@kawaiirazorblades">pronouns</a> ⋆  <a href="https://t0kki.atabook.org">atabook</a>
-
-<p align="center">
-<img width="600" alt="klkl" src="https://github.com/user-attachments/assets/22091e1d-d35d-4613-9ba0-e2bccb99e8fe" />
+<img width="22" height="23" alt="08818d03" src="https://github.com/user-attachments/assets/01fd55a2-f507-4631-8936-2400b207a852" />
 
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12ckph3ot59wwg34vopzfclra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ff94bd&bar_color_cover=false">
-  </a>
-</p>
-
-
+<img width="200" alt="Spray_D Va_Pat_Pat" src="https://github.com/user-attachments/assets/6c610855-12d4-4187-a06c-a0760d6871d6" />
 
 
 <p align="center">
