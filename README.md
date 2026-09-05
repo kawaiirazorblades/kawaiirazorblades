@@ -22,7 +22,7 @@
 
 <p align="center">
 <img width="22" height="23" alt="08818d03" src="https://github.com/user-attachments/assets/01fd55a2-f507-4631-8936-2400b207a852" />
-go follow my kids ok? <a href="https://github.com/Pixelbrickz">plant</a> ♡ <a href="https://github.com/ChokingRedRoses">kai.</a>  𐔌՞. .՞𐦯
+follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> ♡ <a href="https://github.com/ChokingRedRoses">kai.</a>  𐔌՞. .՞𐦯
 <img width="22" height="23" alt="08818d03" src="https://github.com/user-attachments/assets/01fd55a2-f507-4631-8936-2400b207a852" />
 
 
