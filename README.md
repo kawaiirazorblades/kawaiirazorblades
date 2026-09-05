@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kwaiirzrs.straw.page">strawpage</a> ✩
+  <a href="https://yoursh00tingstar.straw.page">strawpage</a> ✩
 </p>
 
 <p align="center">
