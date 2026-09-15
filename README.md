@@ -25,6 +25,11 @@
 follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> ♡ <a href="https://github.com/ChokingRedRoses">kai.</a>  𐔌՞. .՞𐦯
 <img width="22" height="23" alt="08818d03" src="https://github.com/user-attachments/assets/01fd55a2-f507-4631-8936-2400b207a852" />
 
+<p align="center">
+<img width="15" alt="9n6AJzP" src="https://github.com/user-attachments/assets/660d41c5-6bdf-4aa7-8a87-5a4e2ac8f8a6" />
+does some pretty hot suzus on kiri ; <a href="https://github.com/nataliescatorccio">da cutest</a>
+<img width="15" alt="9n6AJzP" src="https://github.com/user-attachments/assets/660d41c5-6bdf-4aa7-8a87-5a4e2ac8f8a6" />
+
 
 <p align="center">
 <img width="200" alt="Spray_D Va_Pat_Pat" src="https://github.com/user-attachments/assets/6c610855-12d4-4187-a06c-a0760d6871d6" />
