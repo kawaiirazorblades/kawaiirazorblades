@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF94BD&width=700&height=40&lines=Hiya%2C+This+is+D.Va!;If+you+ever+see+anyone+else+get+Mvp;That's+just+the+system+being+broken!" alt="Typing SVG" /></a> <p></p>
+<img width="2000" alt="tumblr_0be8f8c9938856e80e6a2e844dd36a2f_ce940c35_2048" src="https://github.com/user-attachments/assets/d7cb36df-edfe-4fde-b97f-7a77f8dbe862" />
 
 <p>
   <img src="https://files.catbox.moe/iesh5n.png" width="350" align="right" />
@@ -34,6 +34,5 @@ follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> â™
 <p align="center">
 <img width="200" alt="Spray_D Va_Pat_Pat" src="https://github.com/user-attachments/assets/6c610855-12d4-4187-a06c-a0760d6871d6" />
 
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=killstreak!&color=ff94bd" alt="Profile views"> </p>
+<img width="250" alt="tumblr_0b07f7e686748319f8c2ec135851d67c_9f4d6d76_250" src="https://github.com/user-attachments/assets/afdd0cda-b55c-46ed-8a3c-1bcc957702e3" />
