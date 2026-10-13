@@ -33,6 +33,3 @@ follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> â™
 
 <p align="center">
 <img width="200" alt="Spray_D Va_Pat_Pat" src="https://github.com/user-attachments/assets/6c610855-12d4-4187-a06c-a0760d6871d6" />
-
-<p align="center">
-<img width="250" alt="tumblr_0b07f7e686748319f8c2ec135851d67c_9f4d6d76_250" src="https://github.com/user-attachments/assets/afdd0cda-b55c-46ed-8a3c-1bcc957702e3" />
