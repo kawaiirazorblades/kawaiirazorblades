@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2000" alt="tumblr_0be8f8c9938856e80e6a2e844dd36a2f_ce940c35_2048" src="https://github.com/user-attachments/assets/d7cb36df-edfe-4fde-b97f-7a77f8dbe862" />
+<img width="2010" height="60" alt="imagem_2026-10-29_234909601" src="https://github.com/user-attachments/assets/dbc7b90c-b336-499c-af25-bcf259c33c60" />
 
 <p>
   <img src="https://files.catbox.moe/iesh5n.png" width="350" align="right" />
