@@ -32,4 +32,5 @@ follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> â™
 
 
 <p align="center">
-<img width="130" alt="imagem_2026-10-29_235231414" src="https://github.com/user-attachments/assets/dafe7997-8011-4ee3-8718-7cb04f2dc972" />
+<img width="140" alt="imagem_2026-10-29_235344268" src="https://github.com/user-attachments/assets/1fd2b7da-ee89-4619-b844-1b49f9459a98" />
+
