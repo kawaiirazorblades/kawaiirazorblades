@@ -32,4 +32,4 @@ follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> â™
 
 
 <p align="center">
-<img width="200" alt="Spray_D Va_Pat_Pat" src="https://github.com/user-attachments/assets/6c610855-12d4-4187-a06c-a0760d6871d6" />
+<img width="130" alt="imagem_2026-10-29_235231414" src="https://github.com/user-attachments/assets/dafe7997-8011-4ee3-8718-7cb04f2dc972" />
