@@ -30,6 +30,9 @@ follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> â™
 <a href="https://github.com/nataliescatorccio">THE CUTEST EVER!!!</a>
 <img width="15" alt="9n6AJzP" src="https://github.com/user-attachments/assets/660d41c5-6bdf-4aa7-8a87-5a4e2ac8f8a6" />
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=m-qr6a_7flo&list=RDm-qr6a_7flo&start_radio=1">go listen to kawaii razor blades</a>
+</p>
 
 <p align="center">
 <img width="140" alt="imagem_2026-10-29_235344268" src="https://github.com/user-attachments/assets/1fd2b7da-ee89-4619-b844-1b49f9459a98" />
