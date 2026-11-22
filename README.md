@@ -26,11 +26,6 @@ follow my awesome kids!! ; <a href="https://github.com/Pixelbrickz">plant</a> â™
 <img width="22" height="23" alt="08818d03" src="https://github.com/user-attachments/assets/01fd55a2-f507-4631-8936-2400b207a852" />
 
 <p align="center">
-<img width="15" alt="9n6AJzP" src="https://github.com/user-attachments/assets/660d41c5-6bdf-4aa7-8a87-5a4e2ac8f8a6" />
-<a href="https://github.com/nataliescatorccio">THE CUTEST EVER!!!</a>
-<img width="15" alt="9n6AJzP" src="https://github.com/user-attachments/assets/660d41c5-6bdf-4aa7-8a87-5a4e2ac8f8a6" />
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=m-qr6a_7flo&list=RDm-qr6a_7flo&start_radio=1">go listen to kawaii razor blades</a>
 </p>
 
