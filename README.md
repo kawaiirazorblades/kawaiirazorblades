@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t0ki.atabook.org">atabook</a> ✩
+  <a href="https://t0kki.atabook.org">atabook</a> ✩
 </p>
 
 <p align="center">
